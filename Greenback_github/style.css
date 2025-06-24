@@ -65,3 +65,23 @@ footer {
   padding: 15px;
   border-top: 1px solid #ddd;
 }
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 40px;
+}
+
+.logo {
+  width: 60px;
+  height: auto;
+}
+
+.title-text {
+  font-family: 'Arial', sans-serif;
+  font-size: 48px;
+  color: #2e7d32;
+  margin: 0;
+}
